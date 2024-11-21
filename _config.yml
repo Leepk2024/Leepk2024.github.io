@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Lee CW"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Oss Assignment **Test** Message."
+  bio              : "open source software student."
   location         : "Busan"
   email            : "osstestemail@test.com"
   links:
