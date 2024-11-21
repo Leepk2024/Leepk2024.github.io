@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Oss Assignment Test Message."
+  bio              : "Oss Assignment **Test** Message."
   location         : "Busan"
-  email            : "OssTestMail@test.com
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
