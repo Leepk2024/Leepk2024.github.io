@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "LCW"
+  name             :
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Oss Assignment Test Message."
   location         : "Busan"
